@@ -1,4 +1,5 @@
 # React Storybook テンプレート
+[![Build Status](https://travis-ci.com/nukosuke/storybook.svg?token=N5NMxSsCpfpx5P78r5bP&branch=master)](https://travis-ci.com/nukosuke/storybook)
 
 - セットアップ時のログ: [#2](https://github.com/nukosuke/storybook/issues/2)
 
