@@ -1,3 +1,15 @@
+# React Storybook テンプレート
+[![Build Status](https://travis-ci.com/nukosuke/storybook.svg?token=N5NMxSsCpfpx5P78r5bP&branch=master)](https://travis-ci.com/nukosuke/storybook)
+
+- セットアップ時のログ: [#2](https://github.com/nukosuke/storybook/issues/2)
+
+### `yarn storybook`
+
+Storybookを起動する。
+
+---
+以下、CRAが生成したREADME。
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
