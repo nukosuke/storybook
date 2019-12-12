@@ -1,3 +1,10 @@
+# React Storybook テンプレート
+
+- セットアップ時のログ: [#2](https://github.com/nukosuke/storybook/issues/2)
+
+---
+以下、CRAが生成したREADME。
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
