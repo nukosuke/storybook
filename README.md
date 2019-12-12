@@ -2,6 +2,10 @@
 
 - セットアップ時のログ: [#2](https://github.com/nukosuke/storybook/issues/2)
 
+### `yarn storybook`
+
+Storybookを起動する。
+
 ---
 以下、CRAが生成したREADME。
 
