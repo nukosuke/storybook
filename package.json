@@ -39,7 +39,7 @@
     "@storybook/addons": "5.3.4",
     "@storybook/react": "5.3.4",
     "@testing-library/jest-dom": "4.2.4",
-    "@testing-library/react": "9.4.0",
+    "@testing-library/react": "10.4.8",
     "@testing-library/user-event": "8.0.2",
     "@types/jest": "24.0.23",
     "react-docgen-typescript-loader": "3.6.0",
