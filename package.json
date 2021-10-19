@@ -40,7 +40,7 @@
     "@storybook/react": "5.3.4",
     "@testing-library/jest-dom": "4.2.4",
     "@testing-library/react": "9.4.0",
-    "@testing-library/user-event": "8.0.2",
+    "@testing-library/user-event": "13.5.0",
     "@types/jest": "24.0.23",
     "react-docgen-typescript-loader": "3.6.0",
     "ts-loader": "6.2.1",
